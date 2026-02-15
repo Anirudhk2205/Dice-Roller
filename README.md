@@ -36,6 +36,9 @@ The software utilizes a 2D matrix mapping technique to control the 7-segment dis
 * 10x Resistors (for display segments and LEDs)
 * Jumper wires and Breadboard
 
+* <img width="1518" height="1008" alt="image" src="https://github.com/user-attachments/assets/18763f0e-e478-4405-a672-d27e8491f8df" />
+
+
 ### Installation
 
 1. Clone this repository to your local machine.
